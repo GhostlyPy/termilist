@@ -24,11 +24,23 @@ fi
 
 cd $DirName
 
+echo "Name of to do list file:"
+echo -n "> "
+read ToDoFile
+
+if [ -d "$ToDoFile" ]
+then
+    echo "File name already exists"
+else
+    `touch $ToDoFile.txt`
+    echo "File was successfully created"
+fi
+
 echo "Add item to your list: "
 read ToDoItem
 
 declare -a StringArray=("$ToDoItem")
 
 for item in "${StringArray[@]}"; do
-    echo $item >> ToDoList.txt
+    echo $item >> $ToDoFile.txt
 done
