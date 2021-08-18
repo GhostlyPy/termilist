@@ -1,8 +1,10 @@
 #!/bin/bash
 
-######################
-# Creator: GhostlyPy #
-######################
+#########################################################
+# Creator: GhostlyPy                                    #
+# Created: 08/18/2021                                   #
+# Project: https://github.com/GhostlyPy/termilist       #
+#########################################################
 
 echo "#######################"
 echo "# Creator: GhostlyPy  #"
