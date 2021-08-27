@@ -1,13 +1,13 @@
 #!/bin/bash
 
 #########################################################
-# Creator: GhostlyPy                                    #
+# Creator: Hifumi Sec                                   #
 # Created: 08/18/2021                                   #
-# Project: https://github.com/GhostlyPy/termilist       #
+# Project: https://github.com/Hifumi-Sec/termilist       #
 #########################################################
 
 echo "#######################"
-echo "# Creator: GhostlyPy  #"
+echo "# Creator: Hifumi Sec #"
 echo "#######################"
 
 echo "Just a fun mini-project I created one night!"
