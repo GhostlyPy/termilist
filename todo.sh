@@ -3,17 +3,26 @@
 #########################################################
 # Creator: Hifumi Sec                                   #
 # Created: 08/18/2021                                   #
-# Project: https://github.com/Hifumi-Sec/termilist       #
+# Version: 1.0.1                                        #
+# Project: https://github.com/Hifumi-Sec/termilist      #
 #########################################################
 
-echo "#######################"
-echo "# Creator: Hifumi Sec #"
-echo "#######################"
-
-echo "Just a fun mini-project I created one night!"
+echo
+echo "___________                      .__ .____     .__           __    "
+echo "\__    ___/____ _______   _____  |__||    |    |__|  _______/  |_  "
+echo "  |    |  _/ __ \\_  __ \ /     \ |  ||    |    |  | /  ___/\   __\ "
+echo "  |    | \  ___/ |  | \/|  Y Y  \|  ||    |___ |  | \___ \  |  |   "
+echo "  |____|  \___  >|__|   |__|_|  /|__||_______ \|__|/____  > |__|   "
+echo "              \/              \/             \/         \/         "
+echo
+echo "Creator: Hifumi Sec (https://github.com/Hifumi-Sec)"
+echo "Version: 1.0.1"
+echo "Project: https://github.com/Hifumi-Sec/termilist"
+echo "Support the dev: https://github.com/sponsors/hifumi-sec"
+echo
 
 echo "Create a directory:"
-echo -n "> "
+echo -n "$ "
 read DirName
 
 if [ -d "$DirName" ]
@@ -26,8 +35,8 @@ fi
 
 cd $DirName
 
-echo "Name of to do list file:"
-echo -n "> "
+echo "Create a file (file will automatically be saved with a txt extenstion):"
+echo -n "$ "
 read ToDoFile
 
 if [ -d "$ToDoFile" ]
