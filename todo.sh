@@ -1,10 +1,10 @@
 #!/bin/bash
 
 #########################################################
-# Creator: Hifumi Sec                                   #
+# Creator: Hifumi1337                                   #
 # Created: 08/18/2021                                   #
-# Version: 1.0.1                                        #
-# Project: https://github.com/Hifumi-Sec/termilist      #
+# Version: 1.0.2                                        #
+# Project: https://github.com/Hifumi1337/termilist      #
 #########################################################
 
 echo
@@ -15,17 +15,17 @@ echo "  |    | \  ___/ |  | \/|  Y Y  \|  ||    |___ |  | \___ \  |  |   "
 echo "  |____|  \___  >|__|   |__|_|  /|__||_______ \|__|/____  > |__|   "
 echo "              \/              \/             \/         \/         "
 echo
-echo "Creator: Hifumi Sec (https://github.com/Hifumi-Sec)"
-echo "Version: 1.0.1"
-echo "Project: https://github.com/Hifumi-Sec/termilist"
-echo "Support the dev: https://github.com/sponsors/hifumi-sec"
+echo "Creator: Hifumi1337 (https://github.com/Hifumi1337)"
+echo "Version: 1.0.2"
+echo "Project: https://github.com/Hifumi1337/termilist"
+echo "Support the dev: https://github.com/sponsors/hifumi1337"
 echo
 
 echo "Create a directory:"
 echo -n "$ "
 read DirName
 
-if [ -d "$DirName" ]
+if [ -d "$DirName" ];
 then
     echo "Directory already exists"
 else
@@ -39,7 +39,7 @@ echo "Create a file (file will automatically be saved with a txt extenstion):"
 echo -n "$ "
 read ToDoFile
 
-if [ -d "$ToDoFile" ]
+if [ -d "$ToDoFile" ];
 then
     echo "File name already exists"
 else
@@ -52,6 +52,7 @@ read ToDoItem
 
 declare -a StringArray=("$ToDoItem")
 
-for item in "${StringArray[@]}"; do
+for item in "${StringArray[@]}";
+do
     echo $item >> $ToDoFile.txt
 done

@@ -1,4 +1,5 @@
 # TermiList
+TermiList is a to-do list cli program created using a Bash Script that lets you create to do list items directly through the terminal.
 
 ```bash
 ___________                      .__ .____     .__           __   
@@ -8,13 +9,11 @@ ___________                      .__ .____     .__           __
   |____|  \___  >|__|   |__|_|  /|__||_______ \|__|/____  > |__|  
               \/              \/             \/         \/        
 
-Creator: Hifumi Sec (https://github.com/Hifumi-Sec)
+Creator: Hifumi1337 (https://github.com/Hifumi1337)
 Version: 1.0.1
-Project: https://github.com/Hifumi-Sec/termilist
-Support the dev: https://github.com/sponsors/hifumi-sec
+Project: https://github.com/Hifumi1337/termilist
+Support the dev: https://github.com/sponsors/hifumi1337
 ```
-
-TermiList is a to-do list cli program created using a Bash Script that lets you create to do list items directly through the terminal.
 
 You can run this script everytime you need to update the to do list since every added item will append onto the txt file that was generated during your first run.
 
