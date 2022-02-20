@@ -10,7 +10,7 @@ ___________                      .__ .____     .__           __
               \/              \/             \/         \/        
 
 Creator: Hifumi1337 (https://github.com/Hifumi1337)
-Version: 1.0.1
+Version: 1.0.2
 Project: https://github.com/Hifumi1337/termilist
 Support the dev: https://github.com/sponsors/hifumi1337
 ```
