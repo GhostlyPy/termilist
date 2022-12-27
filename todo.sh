@@ -1,10 +1,8 @@
 #!/bin/bash
 
 #########################################################
-# Creator: Hifumi1337                                   #
-# Created: 08/18/2021                                   #
-# Version: 1.0.2                                        #
-# Project: https://github.com/Hifumi1337/termilist      #
+# Creator: azazelm3dj3d                                 #
+# Learn more: https://github.com/azazelm3dj3d/termilist #
 #########################################################
 
 echo
@@ -15,10 +13,9 @@ echo "  |    | \  ___/ |  | \/|  Y Y  \|  ||    |___ |  | \___ \  |  |   "
 echo "  |____|  \___  >|__|   |__|_|  /|__||_______ \|__|/____  > |__|   "
 echo "              \/              \/             \/         \/         "
 echo
-echo "Creator: Hifumi1337 (https://github.com/Hifumi1337)"
-echo "Version: 1.0.2"
-echo "Project: https://github.com/Hifumi1337/termilist"
-echo "Support the dev: https://github.com/sponsors/hifumi1337"
+echo "Creator: azazelm3dj3d (https://github.com/azazelm3dj3d)"
+echo "Version: 1.0.3"
+echo "Project: https://github.com/azazelm3dj3d/termilist"
 echo
 
 echo "Create a directory:"
