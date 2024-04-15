@@ -9,9 +9,9 @@ ___________                      .__ .____     .__           __
   |____|  \___  >|__|   |__|_|  /|__||_______ \|__|/____  > |__|  
               \/              \/             \/         \/        
 
-Creator: azazelm3dj3d (https://github.com/azazelm3dj3d)
+Creator: battleoverflow (https://github.com/battleoverflow)
 Version: 1.0.3
-Learn more: https://github.com/azazelm3dj3d/termilist
+Learn more: https://github.com/battleoverflow/termilist
 ```
 
 You can run this script everytime you need to update the to do list since every added item will append onto the txt file that was generated during your first run.

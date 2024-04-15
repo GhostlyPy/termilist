@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #########################################################
-# Creator: azazelm3dj3d                                 #
-# Learn more: https://github.com/azazelm3dj3d/termilist #
+# Creator: battleoverflow                                 #
+# Learn more: https://github.com/battleoverflow/termilist #
 #########################################################
 
 echo
@@ -13,9 +13,9 @@ echo "  |    | \  ___/ |  | \/|  Y Y  \|  ||    |___ |  | \___ \  |  |   "
 echo "  |____|  \___  >|__|   |__|_|  /|__||_______ \|__|/____  > |__|   "
 echo "              \/              \/             \/         \/         "
 echo
-echo "Creator: azazelm3dj3d (https://github.com/azazelm3dj3d)"
+echo "Creator: battleoverflow (https://github.com/battleoverflow)"
 echo "Version: 1.0.3"
-echo "Project: https://github.com/azazelm3dj3d/termilist"
+echo "Project: https://github.com/battleoverflow/termilist"
 echo
 
 echo "Create a directory:"
